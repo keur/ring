@@ -1,5 +1,5 @@
 {
-  "name": "ring",
+  "name": "@keur/ring",
   "private": true,
   "scripts": {
     "build": "turbo run build",
